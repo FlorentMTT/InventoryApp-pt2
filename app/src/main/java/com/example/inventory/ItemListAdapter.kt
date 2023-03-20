@@ -1,3 +1,4 @@
+/* Florent */
 package com.example.inventory
 
 import android.view.LayoutInflater
